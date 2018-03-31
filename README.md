@@ -7,7 +7,7 @@ An Arduino Project with a LCD display to show date(time) and temperature(humidit
 ##### The photo:
 ![photo](https://github.com/rollingstarky/Arduino_Temperature_Clock/blob/master/images/DS1302.jpg)
 
-### Supported commands (throuth the Serial Monitor)
+### Supported commands (through the Serial Monitor)
 * Use ``set YY MM DD WEEK HH MM`` To Set The Time
 * Such As Type ``set 08 08 08 1 12 00`` To Set The Time As 2008-8-8 Monday 12:00
 * Use ``show`` To Display The Time and Temperature(T)/Humidity(H) Now
